@@ -5,7 +5,6 @@
 Dependencies:
 
 Python3
-
 pip
 tkcalendar
 names
